@@ -1,4 +1,6 @@
-![](../images/logo.png)
+# content
+
+![](../.gitbook/assets/logo.png)
 
 > The boilerplate for making electron applications built with vue \(pretty much what it sounds like\).
 
@@ -24,7 +26,7 @@ Things you'll find in this boilerplate...
 * Ability to easily package your application using [electron-packager](https://github.com/electron-userland/electron-packager) or [electron-builder](https://github.com/electron-userland/electron-builder)\*
 * `appveyor.yml` and `.travis.yml` configurations for automated deployments with [electron-builder](https://github.com/electron-userland/electron-builder)\*
 * Ability to produce web output for browsers
-* Handy [NPM scripts](/npm_scripts.md)
+* Handy [NPM scripts](https://github.com/SpeakInCode/electron-vue/tree/45a3e224e7bb8fc71909021ccfdcfec0f461f634/npm_scripts.md)
 * Use of [webpack](https://github.com/webpack/webpack) and [vue-loader](https://github.com/vuejs/vue-loader) with Hot Module Replacement
 * Process restarting when working in electron's `main` process
 * HTML/CSS/JS pre-processor support with [vue-loader](https://github.com/vuejs/vue-loader/)
@@ -51,11 +53,11 @@ yarn # or npm install
 yarn run dev # or npm run dev
 ```
 
-##### Are you a Windows User?
+**Are you a Windows User?**
 
 Make sure to check out [**A Note for Windows Users**](https://simulatedgreg.gitbooks.io/electron-vue/content/en/getting_started.html#a-note-for-windows-users) to make sure you have all the necessary build tools needed for electron and other dependencies.
 
-##### Wanting to use Vue 1?
+**Wanting to use Vue 1?**
 
 Just point to the `1.0` branch. Please note that electron-vue has officially deprecated the usage of `vue@^1`, so project structure, features, and documentation will reflect those changes \([**legacy documentation**](https://github.com/SimulatedGREG/electron-vue/tree/1.0/docs)\).
 
@@ -82,3 +84,4 @@ Take a look at some of the amazing projects built with electron-vue. Want to hav
 * [**Easysubs**](https://github.com/matiastucci/easysubs): Download subtitles in a very fast and simple way
 * [**adminScheduler**](https://github.com/danieltoorani/adminScheduler): An application leveraging electron for cross platform compatibility, Vue.js for lightning fast UI and full-calendar.io to deliver a premium calendar interface.
 * [**Data-curator**](https://github.com/ODIQueensland/data-curator): Share usable open data.
+
