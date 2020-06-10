@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Electron Vue Docs](README.md)
 * [content](en/README.md)
   * [Summary](en/summary.md)
   * [Getting Started](en/getting_started.md)
