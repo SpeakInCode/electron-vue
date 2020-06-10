@@ -4,5 +4,5 @@ description: >-
   back up here.
 ---
 
-# Electron Vue Docs
+# Electron Vue
 

@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Electron Vue Docs](README.md)
-* [docs](en/README.md)
+* [Electron Vue](README.md)
+* [Documentation](en/README.md)
   * [Summary](en/summary.md)
   * [Getting Started](en/getting_started.md)
   * [Project Structure](en/project_structure/README.md)
