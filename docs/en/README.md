@@ -1,4 +1,4 @@
-# content
+# docs
 
 ![](../.gitbook/assets/logo.png)
 
